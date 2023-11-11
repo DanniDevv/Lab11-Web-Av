@@ -1,0 +1,22 @@
+* {
+    color: white;
+  }
+
+  .container {
+    text-align: center; /* Alinea el texto en el centro */
+    margin-top: 20px;
+  }
+
+  .filter {
+    display: block;
+    margin-bottom: 10px; /* Agrega un margen inferior para separar el título de los botones */
+  }
+
+  .btn-group {
+    display: flex;
+    justify-content: center; /* Centra los botones horizontalmente */
+  }
+
+  .btn {
+    margin-right: 5px;
+  }
